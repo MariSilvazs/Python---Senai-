@@ -1,0 +1,5 @@
+print('hello,world')
+print('estou programando')
+print('saudades html')
+print('cade a picanha?')
+print('boomm dia!')
